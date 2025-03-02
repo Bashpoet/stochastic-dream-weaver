@@ -2,6 +2,9 @@
 
 A C++ program that generates evocative, dream-like text inspired by mathematical concepts, stochastic processes, and the poetry of Samuel Taylor Coleridge.
 
+The beauty of this program is that it leverages randomization throughout - from the selection of concepts to the specific values used within descriptions - so every run will produce unique outputs. The mathematical underpinnings ensure that while the text is generative and stochastic, it maintains meaningful structure through the Markov transitions and mathematical frameworks.
+
+
 ## Overview
 
 This program creates surreal, poetic descriptions by merging mathematical concepts with literary aesthetics. It combines:
